@@ -1,0 +1,7 @@
+
+# Use modular LangChain packages (install latest available)
+langchain-core
+langchain-openai
+python-dotenv
+openai
+tiktoken
